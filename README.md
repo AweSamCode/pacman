@@ -12,16 +12,16 @@ Exercise on a pacman animation that moves back and forth.
 >  
 >  *I recommend using chrome*  
 ### Usage
-Open the HTML file in your browser and the animation should begin.  
-*Same steps as "Installation"*  
+> Open the HTML file in your browser and the animation should begin.  
+> *Same steps as "Installation"*  
 ### Support  
-Facebook - *[Samuel Crow](www.facebook.com/samuel.crow.104/)*  
-Email - AweSamCode@gmail.com
+> Facebook - *[Samuel Crow](www.facebook.com/samuel.crow.104/)*  
+> Email - AweSamCode@gmail.com
 ### Roadmap  
-It would be a lot of fun to make pacman do the following:  
-- Go up and down
-- Be controlable with arrow keys
-- Let hit eat stuff
-- Make him into the full game  
+> It would be a lot of fun to make pacman do the following:  
+> - Go up and down
+> - Be controlable with arrow keys
+> - Let hit eat stuff
+> - Make him into the full game  
 ##### License information  
-Code from MIT | Xpro and Samuel Crow.
+> Code from MIT | Xpro and Samuel Crow.
