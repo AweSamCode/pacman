@@ -1,2 +1,2 @@
 # pacman
-This is my repository for a pacman animation I made with the help of MIT | Xpro
+Exercise on a pacman animation that moves back and forth.
