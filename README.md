@@ -1,5 +1,5 @@
-# pacman
-Exercise on a pacman animation that moves back and forth.  
+# PacMan
+> Exercise on a pacman animation that moves back and forth.  
 ## PacMan Animation  
 > This is my **first** project with code that I'm submitting with GitHub. It's quite exciting to think about all the project that are soon to come thanks to the **amazing** people at MIT | Xpro online bootcamp.  
 ### Installation
